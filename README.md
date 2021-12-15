@@ -11,7 +11,7 @@ La actividad ha sido realizada de manera individual por Hernando Hernández Mari
 # Descripción del DataSet
 
 El conjunto de datos se aloja en los sistemas de información del Instituto de Desarrollo Urbano de Bogotá – Colombia:
-https://www.idu.gov.co/page/observatorio-2021
+https://www.idu.gov.co
 
 El conjunto de datos proviene de una encuesta de expectativa o percepción ciudadana sobre el proyecto Corredor Verde Carrera Séptima en la ciudad de Bogotá del año 2021 en su etapa de diseño.
 
